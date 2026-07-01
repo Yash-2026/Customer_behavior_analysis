@@ -20,22 +20,27 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 - Jupyter Notebook
 - Git & GitHub
 
-- 📂 Customer Shopping Dataset (.csv)
-            │
-            ▼
+## 🔄 Project Workflow
+
+```
+📂 Customer Shopping Dataset (.csv)
+        │
+        ▼
 🐍 Data Cleaning & EDA (Python)
-            │
-            ▼
+        │
+        ▼
 🗄️ Data Import to MySQL
-            │
-            ▼
+        │
+        ▼
 📊 SQL Business Analysis
-            │
-            ▼
+        │
+        ▼
 📈 Interactive Power BI Dashboard
-            │
-            ▼
+        │
+        ▼
 💡 Business Insights & Recommendations
+```
+
 
 ## 📊 Dashboard Preview
 
