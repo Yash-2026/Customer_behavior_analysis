@@ -54,16 +54,17 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 - Most customers preferred Card and Cash payment methods.
 - The Power BI dashboard helped visualize customer trends and business performance effectively.
 
-- ## 📁 Project Structure
+## 📁 Project Structure
 
+```text
 Customer_behavior_analysis/
-
 │── Customer behavior analysis.ipynb
 │── customer_behaviour.sql
 │── customer_shopping_behavior.csv
 │── customer_behaviour Dashboard.pbix
 │── README.md
 │── LICENSE
+```
 
 ## 🚀 How to Run
 
@@ -113,7 +114,7 @@ Open the `customer_behaviour Dashboard.pbix` file using **Power BI Desktop** to 
 - Data Storytelling
 - Git & GitHub
 
-- ## 👨‍💻 About the Author
+## 👨‍💻 About the Author
 
 Hi, I'm **Yash Shinde**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights using **Python, SQL, and Power BI**.
 
