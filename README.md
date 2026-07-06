@@ -20,6 +20,12 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 - Jupyter Notebook
 - Git & GitHub
 
+ ## 📂 Dataset Information
+
+- **Dataset:** Customer Shopping Behavior Dataset
+- **Records:** 3,900
+- **Features:** 18
+
 ## 🔄 Project Workflow
 
 ```
@@ -48,7 +54,7 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 
 ## 💡 Key Insights
 
-- Clothing and Electronics were among the top-performing product categories.
+- Clothing was the top-performing product category.
 - The average purchase amount was approximately **$59.76**.
 - Customer purchasing behavior varied across different age groups and genders.
 - Most customers preferred Card and Cash payment methods.
@@ -105,8 +111,9 @@ Open the `customer_behaviour Dashboard.pbix` file using **Power BI Desktop** to 
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
+- Feature Engineering
 - SQL Query Writing
 - Data Visualization
 - Power BI Dashboard Development
@@ -119,6 +126,5 @@ Open the `customer_behaviour Dashboard.pbix` file using **Power BI Desktop** to 
 Hi, I'm **Yash Shinde**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights using **Python, SQL, and Power BI**.
 
 ### 📬 Connect with Me
-
-- **GitHub:** https://github.com/Yash-2026
-- **LinkedIn:** https://www.linkedin.com/in/yash-shinde-bb1426344/
+- **GitHub:** [Yash-2026](https://github.com/Yash-2026)
+- **LinkedIn:** [Yash Shinde](https://www.linkedin.com/in/yash-shinde-bb1426344/)
