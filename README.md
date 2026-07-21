@@ -126,5 +126,5 @@ Open the `customer_behaviour Dashboard.pbix` file using **Power BI Desktop** to 
 Hi, I'm **Yash Shinde**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights using **Python, SQL, and Power BI**.
 
 ### 📬 Connect with Me
-- **GitHub:** [Yash-2026](https://github.com/Yash-2026)
-- **LinkedIn:** [Yash Shinde](https://www.linkedin.com/in/yash-shinde-bb1426344/)
+- **GitHub:** https://github.com/Yash-2026
+- **LinkedIn:** www.linkedin.com/in/yash-shinde-b86545420
